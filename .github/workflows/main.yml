@@ -61,7 +61,6 @@ jobs:
                        +nohardening              \
                        +ttl                      \
                        +wireguard                \
-                       +cifs                     \
                        +sdfat                    \
                        +ntfs                     \
                        +force_dex_wqhd           \
