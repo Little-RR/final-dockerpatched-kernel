@@ -55,7 +55,7 @@ jobs:
           set -e -o pipefail
           ./cruelbuild config                    \
                        model=${{ matrix.model }} \
-                       name="CruelKernel 5.3 Plewsh Edition"        \
+                       name="Plewsh_Cruel5.3"    \
                        toolchain=$TOOLCHAIN      \
                        +magisk                   \
                        +nohardening              \
